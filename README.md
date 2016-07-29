@@ -1,2 +1,2 @@
-# project name is _SAS and the project is:-
+# project_SAS
 Test algorithm for digital microfluidic biochip.
